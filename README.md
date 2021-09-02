@@ -36,4 +36,5 @@ if __name__ == "__main__":
 ```
 
 Clone the source code from https://github.com/jakerieger/FlaskIntroduction
+
 Update SQLALCHEMY_DATABASE_URI to implement MariaDB
